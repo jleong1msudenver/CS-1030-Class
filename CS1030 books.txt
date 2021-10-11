@@ -1,0 +1,18 @@
+
+Fry, Hannah,  "Hello World: Being Human in the Age of Algorithms"
+ISBN:978-0393634990
+
+Strunk & White, "Elements of Style"
+https://www.gutenberg.org/ebooks/37134
+
+Abelson, Ledeen & Lewis, "Blown to Bits: Your Life, Liberty & Happiness After the Digital Explosion"
+http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf
+Another title worth adding to your tech policy reading list. The authors survey a broad swath of tech policy territory — privacy, search, encryption, free speech, copyright, spectrum policy — and provide the reader with a history and technology primer on each topic.
+
+Written in 2008, it is a bit dated but that's not a problem. Nice companion/parallel to the Hello World book. This one is free.
+
+Bush, Vannevar, "As We May Think"
+Atlantic Monthly, https://www.w3.org/History/1945/vbush/vbush.shtml
+One of the seminal essays on computing written in 1945. Read and be prepared to discuss it during the first week of class.
+
+An Intro to Python book - Still deciding which one to use. No rush, won't get to the programming part for a few weeks.
